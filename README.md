@@ -1,5 +1,7 @@
 # dbt-streaming-kafka
 
+![Hashtag Trend over Time](img/ss.jpg)
+
 ## How to run the project
 
 1. Clone the repository
